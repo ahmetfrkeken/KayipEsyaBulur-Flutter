@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612891563356",
+    "firebase_url": "https://kayip-bulur.firebaseio.com",
+    "project_id": "kayip-bulur",
+    "storage_bucket": "kayip-bulur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612891563356:android:f87c6642ce13ecd7999d99",
+        "android_client_info": {
+          "package_name": "ahmedfaruktest.kayip_bulur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612891563356-mg5pc6h3c4qmsvbh0ertsqggeuhdsojj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-kDoaK889PleNavgDhiY7yDRvIeYapI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612891563356-mg5pc6h3c4qmsvbh0ertsqggeuhdsojj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
